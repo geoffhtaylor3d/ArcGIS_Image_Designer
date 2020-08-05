@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata xml:lang="en">
+  <Esri>
+    <CreaDate>20200529</CreaDate>
+    <CreaTime>09381100</CreaTime>
+    <ArcGISFormat>1.0</ArcGISFormat>
+    <SyncOnce>TRUE</SyncOnce>
+  </Esri>
+  <dataIdInfo>
+    <idCitation>
+      <resTitle>ArcGIS Image Designer</resTitle>
+    </idCitation>
+    <idPurp>Task based workflow for editing imagery in ArcGIS Pro</idPurp>
+    <resConst>
+      <Consts>
+        <useLimit>&lt;P&gt;None&lt;/P&gt;</useLimit>
+      </Consts>
+    </resConst>
+    <idAbs></idAbs>
+  </dataIdInfo>
+</metadata>
