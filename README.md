@@ -2,8 +2,7 @@
 
 ** Internal Esri BETA **
 
-### NOTE: There is a Bug in ArcGIS Pro v2.6 where "Split Raster" GP tool produces corrupt .jpg image tiles.
-###       The tool runs fine with Pro v2.5.
+*** NOTE: There is a Bug in ArcGIS Pro v2.6 where "Split Raster" GP tool produces corrupt .jpg image tiles.  The tool runs fine with Pro v2.5.
 
 Instructions: Copy the included files directly into your ArcGIS Pro project.
 
