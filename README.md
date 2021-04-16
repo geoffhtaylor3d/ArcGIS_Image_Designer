@@ -1,6 +1,6 @@
 # ArcGIS_Image_Designer
 
-## Internal Esri BETA ##
+## Fully Functional Prototype ##
 
 Instructions: Copy the included files directly into your ArcGIS Pro project.
 
